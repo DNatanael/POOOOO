@@ -11,7 +11,7 @@ class Transacao{
         this.id = id;
         this.valor = valor;
         this.clientId = clientId;
-        boolean vivo;
+       
     }
 
     public String toString(){
