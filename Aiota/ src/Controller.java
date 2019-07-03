@@ -129,17 +129,7 @@ public class Controller {
                         System.out.println(tr);
                 } else if (ui[0].equals("cadastrar")) {
                     String id = ui[1];
-                    /*
-                    String fullname = "";
-                    for(int i = 2; i < ui.length; i++){
-                        fullname += ui[i] + " ";
-                    }
-                    fullname = fullname.substring(0, fullname.length() - 1);
-                    */
-                    String[] subarray = Arrays.copyOfRange(ui, 2, ui.length);
-                    String fullname = String.join(" ", subarray);
-                    sistema.cadastrar(new Cliente(id, fullname));
-
+                  
                 } else {
                     System.out.println("fail: comando invalido");
                 }
