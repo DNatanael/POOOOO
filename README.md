@@ -98,3 +98,27 @@ Quanto tempo levou pra fazer a atividade?
 
 quase uma semana
 
+
+06 - erança
+
+O que você fez?
+
+Consegui fazer todo obseervando a aula a apostila , porem entedi melhhr como funcionava quando vi os codigos porque assim pude ver direitinhho como cada função aggia no codigo
+
+Com quem e como você fez?
+
+Sozinho reforçado pelas video aulas e pela apostilha em algumas funções
+
+O que aprendeu e sabe fazer?
+
+pra que serve a função privar no caso, reforçou array porque foi bastante ultilizado melhorou um pouco mais na compreensão logggica da questão
+
+O que tem dificuldade ainda?
+
+ainda na emplementação da sintax mas cheguei em um ponto que estou entendendo melhor cada função, a sintax ainda e estranhha mas ja sei reconhecer melhhor cada função
+
+Quanto tempo levou pra fazer a atividade?
+
+Em media 6 horas para enfim entender 
+
+
