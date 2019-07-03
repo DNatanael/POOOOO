@@ -94,7 +94,7 @@ class Sistema {
     }
 
 
-    @Override
+    
     public String toString() {
         String saida = "";
         for(Cliente cliente : clientes)
@@ -140,13 +140,3 @@ public class Controller {
     }
 
 }
-
-/*
-init 500
-cadastrar ana ana banana
-cadastrar julia julia agulha
-emprestar ana 200
-emprestar julia 100
-emprestar ana 50
-show
- */
